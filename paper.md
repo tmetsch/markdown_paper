@@ -4,7 +4,7 @@ Base Header Level: 3
 
 Some cool stuff is done within this paper[^firstfootnote]
 
-[^firstfootnore]: Believe me :-)
+[^firstfootnote]: Believe me :-)
 
 # Stuff
 
